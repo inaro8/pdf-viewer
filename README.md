@@ -12,5 +12,5 @@ https://mozilla.github.io/pdf.js/getting_started/#download
 ### PDFにリンクする
 (PDF.jsのパス)/web/viewer.html?file=(ファイルのパスとファイル名).pdf
 
-## 参考
+## 参考にさせていただいたサイト
 https://qiita.com/nissuk/items/01d0490e19dff6e19a03
